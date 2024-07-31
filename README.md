@@ -24,3 +24,16 @@ The djangoTodo function has been created and the trigger for that is also create
 The next image,
 ![ApiGateway](images/ApiGateway.jpg)
 It shows that the apigateway is created.
+
+
+This app will finally look like 
+
+The login
+![login page](images/login.jpg)
+
+The Landing page
+![landing page](images/landing.jpg)
+
+The description page
+
+![Description](images/description.jpg)
